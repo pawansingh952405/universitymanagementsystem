@@ -1,0 +1,2 @@
+university.management.system.StudentLeaveDetails
+university.management.system.TeacherDetails

@@ -1,0 +1,2 @@
+university.management.system.ExaminationDetails
+university.management.system.ExaminationDetails$1
